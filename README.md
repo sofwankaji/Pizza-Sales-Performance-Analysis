@@ -1,5 +1,3 @@
-Pizza Sales Performance Analysis
-
 ### **📌 Project Title: Pizza Sales Performance Analysis**
 
 
