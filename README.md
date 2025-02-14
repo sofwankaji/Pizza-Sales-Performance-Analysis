@@ -2,7 +2,7 @@
 
 
 
-### **📌 Project Overview:**
+### **Project Overview:**
 
 
 
@@ -10,7 +10,7 @@ This project focuses on analyzing key performance indicators (KPIs) for pizza sa
 
 
 
-### **📌 Problem Statement:**
+### **Problem Statement:**
 
 
 
@@ -18,7 +18,7 @@ The objective of this project is to understand the performance of pizza sales ac
 
 
 
-### **📌 Dataset:**
+### **Dataset:**
 
 
 
@@ -32,7 +32,7 @@ The objective of this project is to understand the performance of pizza sales ac
 
 
 
-### **📌 Tools & Technologies:**
+### **Tools & Technologies:**
 
 
 
@@ -42,7 +42,7 @@ The objective of this project is to understand the performance of pizza sales ac
 
 
 
-### **📌 Approach:**
+### **Approach:**
 
 
 
@@ -75,7 +75,7 @@ The objective of this project is to understand the performance of pizza sales ac
 **For detailed SQL queries and visualizations, please refer to the attached file.**
 
 
-### **📌 Results & Insights:**
+### **Results & Insights:**
 
 
 
@@ -105,7 +105,7 @@ The objective of this project is to understand the performance of pizza sales ac
 
 
 
-### **📌 Recommendations:**
+### **Recommendations:**
 
 
 
